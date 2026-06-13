@@ -8,7 +8,7 @@ export const siteConfig = {
   pickupPoint: "ভুট্টো চত্বর, ডেমরা, ঢাকা",
   pickupDetails:
     "ভুট্টো চত্বর, হাজী বাদশা মিয়াঁ রোড, ডগাইর পশ্চিম পাড়া, ডেমরা, ঢাকা।",
-  pickupMapUrl: "https://maps.app.goo.gl/RtZGWmtdKXocmC746",
+  pickupMapUrl: "https://maps.app.goo.gl/PY8U5XA9JZP1Vip86",
   pickupEmbedUrl:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.277804445293!2d90.47500169999999!3d23.7017715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b7004e95cbdf%3A0x889983e63ef313ea!2z4Kat4KeB4Kaf4KeN4Kaf4KeLIOCmmuCmpOCnjeCmrOCmsCBWdXR0byBDaGF0dGFy!5e0!3m2!1sen!2sbd!4v1781244807662!5m2!1sen!2sbd",
   minOrder: "৫ কেজি",
